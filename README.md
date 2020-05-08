@@ -2,7 +2,8 @@
 
 
 Flappy Bird-type Game by Joe D'Amico and Andrew Griffin
-https://jdamico96.github.io/Flapper/
+
+[Our Game](https://jdamico96.github.io/Flapper/)
 
 ## Introduction
 
@@ -12,5 +13,4 @@ https://jdamico96.github.io/Flapper/
 
 Credits
 
-http://github.com - automatic!
-[GitHub](http://github.com)
+
